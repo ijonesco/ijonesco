@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @ijonesco
+- 👀 I love the outdoors and music
+- 👨‍💻 I am currently working on understanding computer science
+- 🌱 I’m currently learning javascript
+- 💞️ I’m looking to collaborate on SaS ideas, apps, websites, and anything else you think might interest me!
+- 📫 How to reach me: isaacjones540@gmail.com or through my website.
+- No currrent projects.
